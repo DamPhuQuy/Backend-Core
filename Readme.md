@@ -14,9 +14,9 @@ A comprehensive guide to backend development concepts, Node.js, Express, and aut
 
 ### Node.js & Express
 
-- [Basic Objects of Node.js](nodejs-basics.md) - `req`, `res`, `next`
-- [Middleware](middleware.md) - How to define and use middleware in Express
-- [Backend with Node.js](backend-nodejs.md) - Event-driven programming and IoC
+- [Basic Objects of Node.js](Nodejs_Express/nodejs-basics.md) - `req`, `res`, `next`
+- [Middleware](Nodejs_Express/middleware.md) - How to define and use middleware in Express
+- [Backend with Node.js](Nodejs_Express/backend-nodejs.md) - Event-driven programming and IoC
 
 ### Authentication
 
