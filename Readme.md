@@ -6,11 +6,11 @@ A comprehensive guide to backend development concepts, Node.js, Express, and aut
 
 ### Core Concepts
 
-- [Stateless and Stateful](stateless-stateful.md)
-- [Client-Server Model](client-server.md)
-- [HTTP Methods](http-methods.md)
-- [Header and Body](header-body.md)
-- [REST Concept](rest-concept.md)
+- [Stateless and Stateful](core_concepts/stateless-stateful.md)
+- [Client-Server Model](core_concepts/client-server.md)
+- [HTTP Methods](core_concepts/http-methods.md)
+- [Header and Body](core_concepts/header-body.md)
+- [REST Concept](core_concepts/rest-concept.md)
 
 ### Node.js & Express
 
