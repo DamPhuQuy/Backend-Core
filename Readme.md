@@ -4,28 +4,35 @@ A comprehensive guide to backend development concepts, Node.js, Express, and aut
 
 ## Table of Contents
 
-### Core Concepts
+### Introduction
 
-- [Stateless and Stateful](core_concepts/stateless-stateful.md)
-- [Client-Server Model](core_concepts/client-server.md)
-- [HTTP Methods](core_concepts/http-methods.md)
-- [Header and Body](core_concepts/header-body.md)
-- [REST Concept](core_concepts/rest-concept.md)
+- [Stateless and Stateful](core_concepts/introduction/stateless-stateful.md)
+- [Client-Server Model](core_concepts/introduction/client-server.md)
+- [HTTP Methods](core_concepts/introduction/http-methods.md)
+- [Header and Body](core_concepts/introduction/header-body.md)
 
 ### Node.js & Express
 
-- [Basic Objects of Node.js](Nodejs_Express/nodejs-basics.md) - `req`, `res`, `next`
-- [Middleware](Nodejs_Express/middleware.md) - How to define and use middleware in Express
-- [Backend with Node.js](Nodejs_Express/backend-nodejs.md) - Event-driven programming and IoC
+- [Basic Objects of Node.js](core_concepts/Nodejs_Express/nodejs-basics.md) - `req`, `res`, `next`
+- [Middleware](core_concepts/Nodejs_Express/middleware.md) - How to define and use middleware in Express
+- [Backend with Node.js](core_concepts/Nodejs_Express/backend-nodejs.md) - Event-driven programming and IoC
+
+### API Styles
+
+- [REST Concept](core_concepts/api/rest-concept.md)
+
+### Database
+
+- [PostgreSQL](core_concepts/database/postgreSQL.md)
 
 ### Authentication
 
-- [Authentication Overview](authentication/README.md)
-  - [Basic Authentication Flow](authentication/basic-auth.md)
-  - [Cookie and Session](authentication/cookie-session.md)
-  - [JWT (JSON Web Token)](authentication/jwt.md)
-  - [Access Token](authentication/access-token.md)
-  - [Refresh Token](authentication/refresh-token.md)
+- [Authentication Overview](core_concepts/authentication/README.md)
+  - [Basic Authentication Flow](core_concepts/authentication/basic-auth.md)
+  - [Cookie and Session](core_concepts/authentication/cookie-session.md)
+  - [JWT (JSON Web Token)](core_concepts/authentication/jwt.md)
+  - [Access Token](core_concepts/authentication/access-token.md)
+  - [Refresh Token](core_concepts/authentication/refresh-token.md)
 
 ---
 
